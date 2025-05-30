@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @tesnim01
+/src/backend/database.py      @tesnim01
+/src/backend/routers/auth.py  @tesnim01
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @tesnim01
